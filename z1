@@ -4,3 +4,6 @@ Technical design: Designing the physical layout of each page, integrating graphi
 Performance: Ensuring the website looks great, works fast, and performs well with a seamless user experience 
 Connecting the site to a server: Connecting the site to a server 
 Maintaining the site's accessibility: Maintaining the site's accessibility 
+
+Web development is generally broken down into front-end and back-end components: 
+Front-end development: Includes the user interface (UI) and the look and feel of the website. Front-end developers use HTML, CSS, and JavaScript to take care of layout, design, and interactivity
